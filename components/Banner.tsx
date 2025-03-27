@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import { motion } from "framer-motion";
 import Container from "./Container";
 import FadeIn from "./FadeIn";
 import Link from "next/link";

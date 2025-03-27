@@ -1,11 +1,4 @@
 "use client";
-import Image from "next/image";
-import { motion } from "framer-motion";
-import Container from "./Container";
-import FadeIn from "./FadeIn";
-import Link from "next/link";
-
-"use client"; // If using Next.js 13 app directory
 
 import React from "react";
 

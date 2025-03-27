@@ -1,7 +1,6 @@
 import React from "react";
 import SmallBanner from "@/components/Smallbanner";
 import ServiceSquares from "@/components/Grid";
-import { categoriesData, serviceDescriptions, landscapingDetailItems, hardscapingDetailItems } from "@/constants";
 import { gridData } from "@/constants";
 import Estimate from "@/components/Estimate";
 import DescriptionBanner from "@/components/DescriptionBanner";
