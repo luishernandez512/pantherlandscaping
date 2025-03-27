@@ -89,7 +89,7 @@ const ContactUs = () => {
                 href="mailto:info@highlandslandscaping.com"
                 className="text-[#B1D27B] hover:underline"
               >
-                info@highlandslandscaping.com
+                pantherlandscapingtx@gmail.com
               </Link>
             </p>
 

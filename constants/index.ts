@@ -106,22 +106,22 @@ export const featuredProjectsData = [
     {
         title: "Fencing",
         desc: "High-quality fencing projects to secure and beautify your property.",
-        image: "/Fencing.JPG",
+        image: "/Fencing.jpg",
       },
       {
         title: "Planting",
         desc: "Expert planting services for shrubs, trees, and flower beds.",
-        image: "/Fencing.JPG",
+        image: "/Fencing.jpg",
       },
       {
         title: "Pavers",
         desc: "Sturdy and elegant pavers for walkways, patios, and driveways.",
-        image: "/Fencing.JPG",
+        image: "/Fencing.jpg",
       },
       {
         title: "Softscaping",
         desc: "Designing and installing living elements like soil, plants, and turf.",
-        image: "/Fencing.JPG",
+        image: "/Fencing.jpg",
       },
 ];
 
