@@ -14,7 +14,7 @@ const AboutSection = () => {
         <p className="max-w-2xl text-base md:text-lg leading-relaxed">
           At Panther Landscaping, we are committed to creating a cultural and 
           environmental experience that improves our local community through 
-          landscape, service, and excellence. Whether it's designing beautiful 
+          landscape, service, and excellence. Whether it is designing beautiful 
           gardens, installing quality fencing, or maintaining vibrant outdoor 
           spaces, our team strives to bring your vision to life with sustainability 
           and professionalism in mind.
