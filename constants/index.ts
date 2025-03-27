@@ -7,66 +7,66 @@ export const quickLinksData = [
   ];
 
 export const categoriesData = [
-    { title: "Landscaping", href: "/landscaping", imgUrl: "/HomePic.JPG" },
-    { title: "Hardscaping", href: "/hardscaping", imgUrl: "/Hardscape.JPG" },
-    { title: "Masonry", href: "/masonry", imgUrl: "/HomePic.JPG" },
-    { title: "Fencing", href: "/fencing", imgUrl: "/Fencing.JPG" },
-    { title: "Lighting", href: "/lighting", imgUrl: "/HomePic.JPG" },
-    { title: "Irrigation", href: "/irrigation", imgUrl: "/HomePic.JPG" },
+    { title: "Landscaping", href: "/landscaping", imgUrl: "/HomePic.jpg" },
+    { title: "Hardscaping", href: "/hardscaping", imgUrl: "/Hardscape.jpg" },
+    { title: "Masonry", href: "/masonry", imgUrl: "/HomePic.jpg" },
+    { title: "Fencing", href: "/fencing", imgUrl: "/Fencing.jpg" },
+    { title: "Lighting", href: "/lighting", imgUrl: "/HomePic.jpg" },
+    { title: "Irrigation", href: "/irrigation", imgUrl: "/HomePic.jpg" },
 ];
 
 export const gridData = [
-    { title: "Lawn Maintenance", href: "/services/lawn-maintenance", imgUrl: "/HomePic.JPG", iconUrl: "/Mower.png"},
-    { title: "Landscape Enhancements", href: "/services/landscape-enhancements", imgUrl: "/HomePic.JPG", iconUrl: "/Enhancement.png"},
-    { title: "Lawn Fertilization", href: "/services/lawn-fertilization", imgUrl: "/HomePic.JPG", iconUrl: "/Spreader.png"},
-    { title: "Tree & Hedge Maintenance", href: "/services/tree-maintenance", imgUrl: "/HomePic.JPG", iconUrl: "/Tree.png"},
-    { title: "Sod", href: "/serives/sod", imgUrl: "/HomePic.JPG", iconUrl: "/Sod.png"},
-    { title: "Seasonal & Storm Cleanups", href: "/seasonal-cleanups", imgUrl: "/HomePic.JPG", iconUrl: "/Seasons.png"},
+    { title: "Lawn Maintenance", href: "/services/lawn-maintenance", imgUrl: "/HomePic.jpg", iconUrl: "/Mower.png"},
+    { title: "Landscape Enhancements", href: "/services/landscape-enhancements", imgUrl: "/HomePic.jpg", iconUrl: "/Enhancement.png"},
+    { title: "Lawn Fertilization", href: "/services/lawn-fertilization", imgUrl: "/HomePic.jpg", iconUrl: "/Spreader.png"},
+    { title: "Tree & Hedge Maintenance", href: "/services/tree-maintenance", imgUrl: "/HomePic.jpg", iconUrl: "/Tree.png"},
+    { title: "Sod", href: "/serives/sod", imgUrl: "/HomePic.jpg", iconUrl: "/Sod.png"},
+    { title: "Seasonal & Storm Cleanups", href: "/seasonal-cleanups", imgUrl: "/HomePic.jpg", iconUrl: "/Seasons.png"},
 ];
 
 export const gridHardscapingData = [
     { title: "Paver Patios & Walkways", href: "/paver-patios", imgUrl: "/HomePic.jpg", iconUrl: "/Paver.png"},
-    { title: "Retaining Walls", href: "/retaining-walls", imgUrl: "/HomePic.JPG", iconUrl: "/RetainingWall.png"},
-    { title: "Outdoor Kitchens & Built-in Grills", href: "/outdoor-kitchens", imgUrl: "/HomePic.JPG", iconUrl: "/OutdoorGrill.png"},
-    { title: "Fire Pits & Outdoor Fireplaces", href: "/fire-pits", imgUrl: "/HomePic.JPG", iconUrl: "/FirePit.png"},
-    { title: "Driveways & Courtyards", href: "/driveways-courtyards", imgUrl: "/HomePic.JPG", iconUrl: "/Driveway.png"},
-    { title: "Garden Edging & Borders", href: "/garden-edging", imgUrl: "/HomePic.JPG", iconUrl: "/GardenEdging.png"},
+    { title: "Retaining Walls", href: "/retaining-walls", imgUrl: "/HomePic.jpg", iconUrl: "/RetainingWall.png"},
+    { title: "Outdoor Kitchens & Built-in Grills", href: "/outdoor-kitchens", imgUrl: "/HomePic.jpg", iconUrl: "/OutdoorGrill.png"},
+    { title: "Fire Pits & Outdoor Fireplaces", href: "/fire-pits", imgUrl: "/HomePic.jpg", iconUrl: "/FirePit.png"},
+    { title: "Driveways & Courtyards", href: "/driveways-courtyards", imgUrl: "/HomePic.jpg", iconUrl: "/Driveway.png"},
+    { title: "Garden Edging & Borders", href: "/garden-edging", imgUrl: "/HomePic.jpg", iconUrl: "/GardenEdging.png"},
 ];
 
 export const gridMasonryData = [
-    { title: "Stone & Brick Veneer Installation", href: "/stone-installation", imgUrl: "/HomePic.JPG", iconUrl: "/MasonryWall.png"},
-    { title: "Perimeter & Privacy Walls", href: "/privacy-walls", imgUrl: "/HomePic.JPG", iconUrl: "/PrivacyWall.png"},
-    { title: "Chimney Construction", href: "/chimney-construction", imgUrl: "/HomePic.JPG", iconUrl: "/Chimney.png"},
-    { title: "Custom Stone & Brick Columns", href: "/stone-columns", imgUrl: "/HomePic.JPG", iconUrl: "/BrickColumn.png"},
-    { title: "Stucco & Masonry Facade Repairs", href: "/stucco-masonry", imgUrl: "/HomePic.JPG", iconUrl: "/Stucco.png"},
-    { title: "Masonry Foundations", href: "/masonry-foundations", imgUrl: "/HomePic.JPG", iconUrl: "/MasonryFoundation.png"},
+    { title: "Stone & Brick Veneer Installation", href: "/stone-installation", imgUrl: "/HomePic.jpg", iconUrl: "/MasonryWall.png"},
+    { title: "Perimeter & Privacy Walls", href: "/privacy-walls", imgUrl: "/HomePic.jpg", iconUrl: "/PrivacyWall.png"},
+    { title: "Chimney Construction", href: "/chimney-construction", imgUrl: "/HomePic.jpg", iconUrl: "/Chimney.png"},
+    { title: "Custom Stone & Brick Columns", href: "/stone-columns", imgUrl: "/HomePic.jpg", iconUrl: "/BrickColumn.png"},
+    { title: "Stucco & Masonry Facade Repairs", href: "/stucco-masonry", imgUrl: "/HomePic.jpg", iconUrl: "/Stucco.png"},
+    { title: "Masonry Foundations", href: "/masonry-foundations", imgUrl: "/HomePic.jpg", iconUrl: "/MasonryFoundation.png"},
 ];
 
 export const gridFencingData = [
-    { title: "Wood Fencing Installation", href: "/wood-fencing", imgUrl: "/HomePic.JPG", iconUrl: "/WoodFence.png"},
-    { title: "Vinyl Fencing Solutions", href: "/vinyl-fencing", imgUrl: "/HomePic.JPG", iconUrl: "/VinylFencing.png"},
-    { title: "Iron & Ornamental Fencing", href: "/iron-fencing", imgUrl: "/HomePic.JPG", iconUrl: "/IronFencing.png"},
-    { title: "Composite Fencing Installation", href: "/composite-fencing", imgUrl: "/HomePic.JPG", iconUrl: "/CompositeFencing.png"},
-    { title: "Privacy & Security Fencing", href: "/privacy-fencing", imgUrl: "/HomePic.JPG", iconUrl: "/WoodFencing.png"},
-    { title: "Masonry Fencing & Stone Walls", href: "/masonry-fencing", imgUrl: "/HomePic.JPG", iconUrl: "/PrivacyWall.png"},
+    { title: "Wood Fencing Installation", href: "/wood-fencing", imgUrl: "/HomePic.jpg", iconUrl: "/WoodFence.png"},
+    { title: "Vinyl Fencing Solutions", href: "/vinyl-fencing", imgUrl: "/HomePic.jpg", iconUrl: "/VinylFencing.png"},
+    { title: "Iron & Ornamental Fencing", href: "/iron-fencing", imgUrl: "/HomePic.jpg", iconUrl: "/IronFencing.png"},
+    { title: "Composite Fencing Installation", href: "/composite-fencing", imgUrl: "/HomePic.jpg", iconUrl: "/CompositeFencing.png"},
+    { title: "Privacy & Security Fencing", href: "/privacy-fencing", imgUrl: "/HomePic.jpg", iconUrl: "/WoodFencing.png"},
+    { title: "Masonry Fencing & Stone Walls", href: "/masonry-fencing", imgUrl: "/HomePic.jpg", iconUrl: "/PrivacyWall.png"},
 ];
 
 export const gridLightingData = [
-    { title: "LED Lighting Installation", href: "/led-lighting", imgUrl: "/HomePic.JPG", iconUrl: "/LedLight.png"},
-    { title: "Pathway & Walkway Lighting", href: "/walkway-lighting", imgUrl: "/HomePic.JPG", iconUrl: "/PathwayLight.png"},
-    { title: "Up-Lighting & Accent Lighting", href: "/accent-lighting", imgUrl: "/HomePic.JPG", iconUrl: "/AccentLighting.png"},
-    { title: "Smart Outdoor Lighting Systems", href: "/smart-lighting", imgUrl: "/HomePic.JPG", iconUrl: "/SmartLight.png"},
-    { title: "Security & Motion Sensor Lighting", href: "/security-lighting", imgUrl: "/HomePic.JPG", iconUrl: "/MotionSensor.png"},
-    { title: "Deck & Patio Lighting", href: "/patio-lighting", imgUrl: "/HomePic.JPG", iconUrl: "/PatioLight.png"},
+    { title: "LED Lighting Installation", href: "/led-lighting", imgUrl: "/HomePic.jpg", iconUrl: "/LedLight.png"},
+    { title: "Pathway & Walkway Lighting", href: "/walkway-lighting", imgUrl: "/HomePic.jpg", iconUrl: "/PathwayLight.png"},
+    { title: "Up-Lighting & Accent Lighting", href: "/accent-lighting", imgUrl: "/HomePic.jpg", iconUrl: "/AccentLighting.png"},
+    { title: "Smart Outdoor Lighting Systems", href: "/smart-lighting", imgUrl: "/HomePic.jpg", iconUrl: "/SmartLight.png"},
+    { title: "Security & Motion Sensor Lighting", href: "/security-lighting", imgUrl: "/HomePic.jpg", iconUrl: "/MotionSensor.png"},
+    { title: "Deck & Patio Lighting", href: "/patio-lighting", imgUrl: "/HomePic.jpg", iconUrl: "/PatioLight.png"},
 ];
 
 export const gridIrrigationData = [
-    { title: "Smart Irrigation Systems", href: "/smart-irrigation", imgUrl: "/HomePic.JPG", iconUrl: "/SmartWater.png"},
-    { title: "Sprinkler System Installation", href: "/sprinkler-system", imgUrl: "/HomePic.JPG", iconUrl: "/Sprinkler.png"},
-    { title: "Irrigation System Maintenance", href: "/irrigation-maintenance", imgUrl: "/HomePic.JPG", iconUrl: "/WaterMait.png"},
-    { title: "Drip Irrigation Installation", href: "/drip-irrigation", imgUrl: "/HomePic.JPG", iconUrl: "/DripSystem.png"},
-    { title: "Irrigation System Winterization", href: "/irrigation-winterization", imgUrl: "/HomePic.JPG", iconUrl: "/WinterWater.png"},
-    { title: "Rainwater Harvesting Integration", href: "/rainwater-harvesting", imgUrl: "/HomePic.JPG", iconUrl: "/RainWater.png"},
+    { title: "Smart Irrigation Systems", href: "/smart-irrigation", imgUrl: "/HomePic.jpg", iconUrl: "/SmartWater.png"},
+    { title: "Sprinkler System Installation", href: "/sprinkler-system", imgUrl: "/HomePic.jpg", iconUrl: "/Sprinkler.png"},
+    { title: "Irrigation System Maintenance", href: "/irrigation-maintenance", imgUrl: "/HomePic.jpg", iconUrl: "/WaterMait.png"},
+    { title: "Drip Irrigation Installation", href: "/drip-irrigation", imgUrl: "/HomePic.jpg", iconUrl: "/DripSystem.png"},
+    { title: "Irrigation System Winterization", href: "/irrigation-winterization", imgUrl: "/HomePic.jpg", iconUrl: "/WinterWater.png"},
+    { title: "Rainwater Harvesting Integration", href: "/rainwater-harvesting", imgUrl: "/HomePic.jpg", iconUrl: "/RainWater.png"},
 ];
 
 export const serviceDescriptions: Record<string, string> = {
@@ -93,13 +93,13 @@ export const hardscapingDetailItems = [
 ];
 
 export const areaData = [
-    { title: "Austin", href: "/austin", imgUrl: "HomePic.JPG"},
-    { title: "Bee Cave", href: "/bee-cave", imgUrl: "HomePic.JPG"},
-    { title: "Belterra", href: "/belterra", imgUrl: "HomePic.JPG"},
-    { title: "Dripping Springs", href: "/dripping-springs", imgUrl: "HomePic.JPG"},
-    { title: "Lakeway", href: "/lakeway", imgUrl: "HomePic.JPG"},
-    { title: "Steiner Ranch", href: "/steiner-ranch", imgUrl: "HomePic.JPG"},
-    { title: "West Lake", href: "/west-lake", imgUrl: "HomePic.JPG"},
+    { title: "Austin", href: "/austin", imgUrl: "HomePic.jpg"},
+    { title: "Bee Cave", href: "/bee-cave", imgUrl: "HomePic.jpg"},
+    { title: "Belterra", href: "/belterra", imgUrl: "HomePic.jpg"},
+    { title: "Dripping Springs", href: "/dripping-springs", imgUrl: "HomePic.jpg"},
+    { title: "Lakeway", href: "/lakeway", imgUrl: "HomePic.jpg"},
+    { title: "Steiner Ranch", href: "/steiner-ranch", imgUrl: "HomePic.jpg"},
+    { title: "West Lake", href: "/west-lake", imgUrl: "HomePic.jpg"},
 ];
 
 export const featuredProjectsData = [
