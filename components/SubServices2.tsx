@@ -28,60 +28,101 @@ Our services are tailored to the local climate and your unique property needs, k
     planBullets: [
       {
         text: "Mulch Installation",
-        icon: "/GreenMower.png",
+        icon: "/MulchInstall.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Seasonal Flower Planting",
-        icon: "/Weeds.png",
+        icon: "/SeasonalFlower.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Raised Planter Installs",
-        icon: "/GreenMower.png",
+        icon: "/RaisedPlanter.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Lawn Aeration",
-        icon: "/GreenMower.png",
+        icon: "/LawnAeration.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Top Dressing",
-        icon: "/GreenMower.png",
+        icon: "/TopDressing.png",
         iconWidth: 60,
         iconHeight: 60,
       },{
-        text: "Dethatcing",
-        icon: "/GreenMower.png",
+        text: "Dethatching",
+        icon: "/Dethatching.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Overseeding",
-        icon: "/GreenMower.png",
+        icon: "/Overseeding.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Weed Control",
-        icon: "/GreenMower.png",
+        icon: "/WeedControl.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Pest Management",
-        icon: "/GreenMower.png",
+        icon: "/PestManagement.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
-        text: "Overseeding",
-        icon: "/GreenMower.png",
+        text: "Grass Variety Upgrade",
+        icon: "/GrassUpgrade.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
+  "/services/lawn-fertilization": {
+    mainTitle: "Lawn Fertilization",
+    shortParagraph: `
+  Our specialized Lawn Fertilization service is designed to keep your turf thriving and vibrant throughout the year. 
+  We tailor our program to your lawns unique needs, using premium products and careful scheduling to ensure optimal growth.
+    `,
+    includedTitle: "What is Included in Your Lawn Fertilization Service?",
+    planServiceName: "Lawn Fertilization",
+    planBullets: [
+      {
+        text: "Initial lawn evaluation to determine application needs",
+        icon: "/InitialEvaluation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Premium fertilizer applied twice a year to prevent overuse",
+        icon: "/FertilizerApplied.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Custom fertilization schedule tailored for seasonal growth",
+        icon: "/Schedule.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Targeted nutrient application to boost turf health",
+        icon: "/Nutrient.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Ongoing monitoring and adjustments for sustained lawn vibrancy",
+        icon: "/Monitoring.png",
         iconWidth: 60,
         iconHeight: 60,
       },

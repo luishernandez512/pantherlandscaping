@@ -42,24 +42,25 @@ lawn lush and vibrant in every season.
       },
       {
         text: "Blow away grass clippings and debris",
-        icon: "/GreenMower.png",
+        icon: "/LeafBlower.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Edge along all sidewalks, patios, and driveways",
-        icon: "/GreenMower.png",
+        icon: "/Edger.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Trim around trees, beds, and fencing",
-        icon: "/GreenMower.png",
+        icon: "/Trimmer.png",
         iconWidth: 60,
         iconHeight: 60,
       },
     ],
   },
+  
   // Add more routes as needed...
 };
 

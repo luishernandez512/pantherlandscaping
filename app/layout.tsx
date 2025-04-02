@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Ribbon from "@/components/Ribbon";
 import type { Metadata } from "next";
 import "./globals.css";
-
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
   title: "Panther Landscaping",
@@ -22,6 +22,7 @@ export default function RootLayout({
         <Ribbon />
         <Header />
           <main>{children}</main>
+          <Analytics />
         <Footer />
       </body>
     </html>

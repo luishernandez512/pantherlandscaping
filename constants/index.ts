@@ -15,6 +15,16 @@ export const categoriesData = [
     { title: "Irrigation", href: "/irrigation", imgUrl: "/HomePic.jpg" },
 ];
 
+export const cities = [
+    { name: "Austin", href: "/service-areas/austin" },
+    { name: "Bee Cave", href: "/service-areas/bee-cave" },
+    { name: "Belterra", href: "/service-areas/belterra" },
+    { name: "Dripping Springs", href: "/service-areas/dripping-springs" },
+    { name: "Lakeway", href: "/service-areas/lakeway" },
+    { name: "Steiner Ranch", href: "/service-areas/steiner-ranch" },
+    { name: "West Lake", href: "/service-areas/west-lake" },
+];
+  
 export const gridData = [
     { title: "Lawn Maintenance", href: "/services/lawn-maintenance", imgUrl: "/HomePic.jpg", iconUrl: "/Mower.png"},
     { title: "Landscape Enhancements", href: "/services/landscape-enhancements", imgUrl: "/HomePic.jpg", iconUrl: "/Enhancement.png"},
@@ -140,7 +150,7 @@ export const headerListItem = [
     {
         _id:1035455, 
         title:"Service Areas",
-        link: "/serviceareas",
+        link: "/service-areas",
     },
     {
         _id:1035454, 

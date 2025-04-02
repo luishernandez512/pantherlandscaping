@@ -52,7 +52,7 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
   "/services/lawn-fertilization": {
     title: "Lawn Fertilization",
     subtitle: 
-      "Reinvigorate your outdoor living area with our curated Landscape Enhancement services, designed to highlight your propertys natural beauty. \n\nAt Panther Landscaping, we balance local expertise with meticulous attention to detail, ensuring your yard remains vibrant and welcoming all year.",
+      "Revitalize your lawn with our specialized Lawn Fertilization services, designed to boost growth and maintain a lush, vibrant turf. \n\nWe combine our local expertise with precise nutrient scheduling to ensure your lawn flourishes throughout every season.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
   
