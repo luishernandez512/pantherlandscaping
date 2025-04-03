@@ -158,6 +158,11 @@ export const headerListItem = [
         link: "/aboutus",
     },
     {
+        _id:1035484, 
+        title:"careers",
+        link: "/careers",
+    },
+    {
         _id:104454, 
         title:"contact us",
         link: "/contactus",

@@ -34,7 +34,8 @@ const ContactUs = () => {
       }
     };
     document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
+    return () =>
+      document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
   const handleChange = (
@@ -43,10 +44,24 @@ const ContactUs = () => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
+  // Modified handleSubmit to create a mailto link with the form data
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    console.log("Form data:", formData);
-    console.log("Selected Services:", selectedServices);
+
+    // Construct the subject and body for the email
+    const subject = `New inquiry from ${formData.firstName} ${formData.lastName}`;
+    let body = `Name: ${formData.firstName} ${formData.lastName}\n`;
+    body += `Phone: ${formData.phone}\n`;
+    body += `Email: ${formData.email}\n`;
+    body += `Message: ${formData.message}\n`;
+    if (selectedServices.length > 0) {
+      body += `Services needed: ${selectedServices.join(", ")}\n`;
+    }
+
+    // Redirect to a mailto URL which opens the user's email client
+    window.location.href = `mailto:pantherlandscapingtx@gmail.com?subject=${encodeURIComponent(
+      subject
+    )}&body=${encodeURIComponent(body)}`;
   };
 
   // Toggle a service in the selected list
@@ -86,7 +101,7 @@ const ContactUs = () => {
             <p className="text-gray-600 mb-6">
               <span className="font-semibold">Email:</span>{" "}
               <Link
-                href="mailto:info@highlandslandscaping.com"
+                href="mailto:pantherlandscapingtx@gmail.com"
                 className="text-[#B1D27B] hover:underline"
               >
                 pantherlandscapingtx@gmail.com

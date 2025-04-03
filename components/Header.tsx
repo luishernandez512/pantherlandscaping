@@ -69,11 +69,11 @@ const Header = () => {
                 <motion.ul
                   className="absolute top-0 left-0 w-full h-full flex flex-col items-center justify-center text-black gap-3 uppercase text-4xl font-semibold"
                   initial={false}
-                  animate={{ x: showServices ? "-100%" : "0%" }} 
+                  animate={{ x: showServices ? "-100%" : "0%" }}
                   transition={{ duration: 0.6 }}
                 >
                   {headerListItem.map((item) => {
-                    // Intercept "Services"
+                    // Intercept "Services" to open submenu
                     if (item.title.toLowerCase() === "services") {
                       return (
                         <li
@@ -86,7 +86,20 @@ const Header = () => {
                         </li>
                       );
                     }
-                    // Normal link
+                    // Include Contact Us for mobile menu only
+                    if (item.title.toLowerCase() === "contact us") {
+                      return (
+                        <Link key={item._id} href={item.link}>
+                          <li
+                            onClick={() => setShowMenu(false)}
+                            className="hover:text-gray-500 cursor-pointer duration-300"
+                          >
+                            {item.title}
+                          </li>
+                        </Link>
+                      );
+                    }
+                    // Normal link for other items
                     return (
                       <Link key={item._id} href={item.link}>
                         <li
@@ -133,7 +146,6 @@ const Header = () => {
                     ))}
                   </ul>
                 </motion.div>
-
               </div>
               {/* End container for both menus */}
             </motion.div>
@@ -153,30 +165,35 @@ const Header = () => {
         {/* ============== DESKTOP NAVBAR ============== */}
         <div className="hidden lg:inline-flex items-center gap-8 text-sm uppercase font-semibold tracking-wide">
           <ul className="flex gap-8">
-            {headerListItem.map((item) => (
-              <Link key={item._id} href={item.link}>
-                <li
-                  className={`
+            {headerListItem
+              .filter((item) => item.title.toLowerCase() !== "contact us")
+              .map((item) => (
+                <Link key={item._id} href={item.link}>
+                  <li
+                    className={`
                     ${active === item.link ? "text-primeColor" : ""}
                     hover:text-primeColor cursor-pointer duration-300 group relative
                   `}
-                >
-                  {item.title}
-                  <span
-                    className={`
+                  >
+                    {item.title}
+                    <span
+                      className={`
                       ${active === item.link ? "scale-100" : ""}
                       absolute w-full transform scale-0 group-hover:scale-100
                       duration-500 h-[2px] -bottom-[1px] left-0 bg-primeColor inline-block
                     `}
-                  ></span>
-                </li>
-              </Link>
-            ))}
+                    ></span>
+                  </li>
+                </Link>
+              ))}
           </ul>
 
-          <button className="w-36 h-10 bg-darkGreen text-white uppercase rounded-md hover:bg-primeColor duration-300">
-            Hire me
-          </button>
+          {/* Desktop CTA Button now links to "/contactus" and is labeled "Contact Us" */}
+          <Link href="/contactus">
+            <button className="w-36 h-10 bg-darkGreen text-white uppercase rounded-md hover:bg-primeColor duration-300">
+              Contact Us
+            </button>
+          </Link>
         </div>
       </div>
     </div>
@@ -184,3 +201,4 @@ const Header = () => {
 };
 
 export default Header;
+
