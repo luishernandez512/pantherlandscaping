@@ -34,9 +34,11 @@ const Banner = () => {
             </h1>
           </FadeIn>
           <FadeIn>
-            <button className="mt-6 w-60 h-12 bg-white font-bold text-darkGreen uppercase rounded-md hover:bg-darkGreen hover:text-white duration-300">
-              SCHEDULE A FREE CONSULTATION
-            </button>
+            <Link href="/contactus">
+              <button className="mt-6 w-60 h-12 bg-white font-bold text-darkGreen uppercase rounded-md hover:bg-darkGreen hover:text-white duration-300">
+                SCHEDULE A FREE CONSULTATION
+              </button>
+            </Link>
           </FadeIn>
         </div>
       </Container>

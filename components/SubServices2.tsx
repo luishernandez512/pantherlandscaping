@@ -110,19 +110,19 @@ Our services are tailored to the local climate and your unique property needs, k
       },
       {
         text: "Custom fertilization schedule tailored for seasonal growth",
-        icon: "/Schedule.png",
+        icon: "/CustomFertilization.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Targeted nutrient application to boost turf health",
-        icon: "/Nutrient.png",
+        icon: "/TargetedNutrient.png",
         iconWidth: 60,
         iconHeight: 60,
       },
       {
         text: "Ongoing monitoring and adjustments for sustained lawn vibrancy",
-        icon: "/Monitoring.png",
+        icon: "/OngoingMonitoring.png",
         iconWidth: 60,
         iconHeight: 60,
       },
