@@ -90,8 +90,7 @@ Our services are tailored to the local climate and your unique property needs, k
   "/services/lawn-fertilization": {
     mainTitle: "Lawn Fertilization",
     shortParagraph: `
-  Our specialized Lawn Fertilization service is designed to keep your turf thriving and vibrant throughout the year. 
-  We tailor our program to your lawns unique needs, using premium products and careful scheduling to ensure optimal growth.
+  Our specialized Lawn Fertilization service is designed to keep your turf thriving and vibrant throughout the year. We tailor our program to your lawns unique needs, using premium products and careful scheduling to ensure optimal growth.
     `,
     includedTitle: "What is Included in Your Lawn Fertilization Service?",
     planServiceName: "Lawn Fertilization",
@@ -123,6 +122,58 @@ Our services are tailored to the local climate and your unique property needs, k
       {
         text: "Ongoing monitoring and adjustments for sustained lawn vibrancy",
         icon: "/OngoingMonitoring.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
+  "/services/tree-maintenance": {
+    mainTitle: "Tree and Hedge Maintenance",
+    shortParagraph: `
+  Our dedicated Tree and Hedge Maintenance service is designed to keep your landscape looking pristine all year round. We customize our care programs to address the unique needs of your trees and hedges, employing expert techniques and top-quality products to ensure lasting health and beauty.
+    `,
+    includedTitle: "What is Included in Your Tree and Hedge Maintenance Service?",
+    planServiceName: "Tree or Hedge Maintenance",
+    planBullets: [
+      {
+        text: "Tree or Hedge Health Assessment",
+        icon: "/TreeHealth.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Precision Pruning & Trimming",
+        icon: "/PrecisionPruning.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Pest & Disease Management",
+        icon: "/PestDiseaseManagement.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Seasonal Maintenance Packages",
+        icon: "/SeasonalMaintenance.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Tree Removal",
+        icon: "/TreeRemoval.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Stump Grinding & Removal",
+        icon: "/StumpGrinding.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Tree or Hedge Planting",
+        icon: "/TreePlanting.png",
         iconWidth: 60,
         iconHeight: 60,
       },

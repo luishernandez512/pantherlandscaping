@@ -55,6 +55,12 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Revitalize your lawn with our specialized Lawn Fertilization services, designed to boost growth and maintain a lush, vibrant turf. \n\nWe combine our local expertise with precise nutrient scheduling to ensure your lawn flourishes throughout every season.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
+  "/services/tree-maintenance": {
+    title: "Tree and Hedge Maintenance",
+    subtitle: 
+      "Revitalize your landscape with our specialized Tree and Hedge Maintenance services, designed to enhance growth and preserve natural beauty. \n\nWe blend our local expertise with customized care scheduling to ensure your trees and hedges thrive in every season.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   
   "/services": {
     title: "Our Services",
