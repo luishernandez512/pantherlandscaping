@@ -61,6 +61,24 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Revitalize your landscape with our specialized Tree and Hedge Maintenance services, designed to enhance growth and preserve natural beauty. \n\nWe blend our local expertise with customized care scheduling to ensure your trees and hedges thrive in every season.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
+  "/services/sod": {
+    title: "Sod",
+    subtitle: 
+      "Revitalize your outdoor space with our dedicated Sod services, designed to create a lush, vibrant lawn that elevates your landscape. \n\nWe combine local expertise with personalized installation and care schedules to ensure your new turf thrives all year long.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
+  "/services/seasonal-cleanups": {
+    title: "Seasonal and Storm Cleanups",
+    subtitle: 
+      "Revitalize your outdoor sanctuary with our Seasonal and Storm Cleanup services, expertly crafted to restore your property's beauty after challenging weather. \n\nWe blend local expertise with tailored clean-up schedules to ensure your landscape recovers quickly and remains pristine throughout every season.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
+  "/services/paver-patios": {
+    title: "Paver Patios & Walkways",
+    subtitle: 
+      "Transform your outdoor space with our expert Paver Patios & Walkways services, meticulously crafted to enhance both beauty and function. \n\nWe merge local craftsmanship with personalized design strategies to create inviting paver installations that not only elevate your property's appeal but also stand resilient against the elements year-round.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   
   "/services": {
     title: "Our Services",

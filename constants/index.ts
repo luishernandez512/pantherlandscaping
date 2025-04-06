@@ -30,17 +30,17 @@ export const gridData = [
     { title: "Landscape Enhancements", href: "/services/landscape-enhancements", imgUrl: "/HomePic.jpg", iconUrl: "/Enhancement.png"},
     { title: "Lawn Fertilization", href: "/services/lawn-fertilization", imgUrl: "/HomePic.jpg", iconUrl: "/Spreader.png"},
     { title: "Tree & Hedge Maintenance", href: "/services/tree-maintenance", imgUrl: "/HomePic.jpg", iconUrl: "/Tree.png"},
-    { title: "Sod", href: "/serives/sod", imgUrl: "/HomePic.jpg", iconUrl: "/Sod.png"},
-    { title: "Seasonal & Storm Cleanups", href: "/seasonal-cleanups", imgUrl: "/HomePic.jpg", iconUrl: "/Seasons.png"},
+    { title: "Sod", href: "/services/sod", imgUrl: "/HomePic.jpg", iconUrl: "/Sod.png"},
+    { title: "Seasonal & Storm Cleanups", href: "/services/seasonal-cleanups", imgUrl: "/HomePic.jpg", iconUrl: "/Seasons.png"},
 ];
 
 export const gridHardscapingData = [
-    { title: "Paver Patios & Walkways", href: "/paver-patios", imgUrl: "/HomePic.jpg", iconUrl: "/Paver.png"},
-    { title: "Retaining Walls", href: "/retaining-walls", imgUrl: "/HomePic.jpg", iconUrl: "/RetainingWall.png"},
-    { title: "Outdoor Kitchens & Built-in Grills", href: "/outdoor-kitchens", imgUrl: "/HomePic.jpg", iconUrl: "/OutdoorGrill.png"},
-    { title: "Fire Pits & Outdoor Fireplaces", href: "/fire-pits", imgUrl: "/HomePic.jpg", iconUrl: "/FirePit.png"},
-    { title: "Driveways & Courtyards", href: "/driveways-courtyards", imgUrl: "/HomePic.jpg", iconUrl: "/Driveway.png"},
-    { title: "Garden Edging & Borders", href: "/garden-edging", imgUrl: "/HomePic.jpg", iconUrl: "/GardenEdging.png"},
+    { title: "Paver Patios & Walkways", href: "/services/paver-patios", imgUrl: "/HomePic.jpg", iconUrl: "/Paver.png"},
+    { title: "Retaining Walls", href: "/services/retaining-walls", imgUrl: "/HomePic.jpg", iconUrl: "/RetainingWall.png"},
+    { title: "Outdoor Kitchens & Built-in Grills", href: "/services/outdoor-kitchens", imgUrl: "/HomePic.jpg", iconUrl: "/OutdoorGrill.png"},
+    { title: "Fire Pits & Outdoor Fireplaces", href: "/services/fire-pits", imgUrl: "/HomePic.jpg", iconUrl: "/FirePit.png"},
+    { title: "Driveways & Courtyards", href: "/services/driveways-courtyards", imgUrl: "/HomePic.jpg", iconUrl: "/Driveway.png"},
+    { title: "Garden Edging & Borders", href: "/services/garden-edging", imgUrl: "/HomePic.jpg", iconUrl: "/GardenEdging.png"},
 ];
 
 export const gridMasonryData = [

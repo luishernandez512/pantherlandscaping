@@ -179,6 +179,168 @@ Our services are tailored to the local climate and your unique property needs, k
       },
     ],
   },
+  "/services/sod": {
+    mainTitle: "Sod",
+    shortParagraph: `
+  Our dedicated Sod Service is designed to keep your lawn lush and vibrant throughout every season. We tailor our installation programs to the specific requirements of your outdoor space, using advanced techniques and premium-quality sod to create a healthy, eye-catching landscape that stands the test of time.
+    `,
+    includedTitle: "Our Top-Rated Sod Services",
+    planServiceName: "Sod",
+    planBullets: [
+      {
+        text: "Custom Sod Consultation & Planning",
+        icon: "/SodConsultation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Premium Sod Installation",
+        icon: "/SodInstallation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Custom Lawn Design & Layout",
+        icon: "/CustomLawnDesign.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Efficient Irrigation Integration",
+        icon: "/EfficientIrrigation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Expert Grading for Optimal Drainage",
+        icon: "/ExpertGrading.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Post-Installation Care & Maintenance",
+        icon: "/PostInstallationCare.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
+  "/services/seasonal-cleanups": {
+    mainTitle: "Seasonal and Storm Cleanups",
+    shortParagraph: `
+  Our dedicated Seasonal and Storm Cleanups service ensures your landscape remains impeccable no matter the weather. We design tailored cleanup programs to address the specific challenges each season brings, using advanced techniques and eco-friendly methods to restore and maintain your outdoor spaces. Our expert team works diligently to remove debris, mitigate storm damage, and prepare your property for the changing seasons, ensuring both safety and lasting visual appeal.
+    `,
+    includedTitle: "What is Included in Your Seasonal and Storm Cleanup Plan?",
+    planServiceName: "Seasonal and Storm Cleanup",
+    planBullets: [
+      {
+        text: "Pre-Season Landscape Evaluation",
+        icon: "/LandscapeEvaluation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Rapid Post-Storm Debris Removal",
+        icon: "/PostStormRemoval.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Comprehensive Leaf & Branch Cleanup",
+        icon: "/ComprehensiveCleanup.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Tree Hazard Assessment & Pruning",
+        icon: "/TreeHazard.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Tailored Cleanup Packages",
+        icon: "/TailoredPackages.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Restorative Landscape Repair",
+        icon: "/RestorativeLandscape.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
+  "/services/paver-patios": {
+    mainTitle: "Paver Patios & Walkways",
+    shortParagraph: `
+  At Panther Landscaping, we elevate your outdoor environment with expertly crafted paver patios and walkways that merge aesthetic appeal with functionality. Our skilled team transforms your vision into reality, creating inviting spaces that serve as the perfect backdrop for relaxation and entertaining. Our custom hardscaping solutions highlight the beauty of your property while adding value and durability. From intricate patio designs to seamless garden pathways, every project is tailored to complement your unique style and landscape. With a keen focus on quality craftsmanship and thoughtful design, our paver installations not only enhance the look of your outdoor area but also provide a sturdy, low-maintenance solution for years to come.
+    `,
+    includedTitle: "What is Included in Your Paver Plan?",
+    planServiceName: "Seasonal and Storm Cleanup",
+    planBullets: [
+      {
+        text: "Comprehensive Design Consultation & Layout Planning",
+        icon: "/ComprehensiveDesign.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "High-Quality Paver Material Selection",
+        icon: "/PaverSelection.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Precision Paver Installation & Alignment",
+        icon: "/PaverInstallation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Custom Pattern & Color Coordination",
+        icon: "/PatternCoordination.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Integrated Drainage & Stability Solutions",
+        icon: "/IntegratedDrainage.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Detailed Site Preparation & Grading",
+        icon: "/SitePreparation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Efficient Edge Restraint Installation",
+        icon: "/RestorativeLandscape.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Seamless Landscape Integration",
+        icon: "/RestorativeLandscape.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Paver Sealing & Protective Treatments",
+        icon: "/RestorativeLandscape.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Ongoing Maintenance & Repair Services",
+        icon: "/RestorativeLandscape.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
   // Add more routes as needed...
 };
 
