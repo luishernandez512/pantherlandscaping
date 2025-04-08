@@ -79,7 +79,12 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Transform your outdoor space with our expert Paver Patios & Walkways services, meticulously crafted to enhance both beauty and function. \n\nWe merge local craftsmanship with personalized design strategies to create inviting paver installations that not only elevate your property's appeal but also stand resilient against the elements year-round.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
-  
+  "/services/retaining-walls": {
+    title: "Retaining Walls",
+    subtitle: 
+      "Reimagine your outdoor living environment with our professional Retaining Walls services, expertly designed to marry aesthetic appeal with robust functionality. \n\nWe combine local expertise with tailored design strategies to craft enduring walls that not only enhance your property's beauty but also provide essential support against shifting landscapes and seasonal elements.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   "/services": {
     title: "Our Services",
     subtitle: "Browse through the various services we provide",

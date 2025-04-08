@@ -341,6 +341,58 @@ Our services are tailored to the local climate and your unique property needs, k
       },
     ],
   },
+  "/services/retaining-walls": {
+    mainTitle: "Retaining Walls",
+    shortParagraph: `
+  Elevate your outdoor space with our expertly engineered retaining walls that marry visual sophistication with robust functionality. Our seasoned team transforms your design aspirations into resilient structures that not only safeguard against erosion but also frame your landscape with enduring elegance. Each retaining wall is custom-designed to integrate seamlessly with your property, enhancing both value and curb appeal while providing long-lasting performance and low maintenance. With meticulous craftsmanship and innovative design, our solutions create structured, inviting outdoor areas perfect for both everyday enjoyment and special gatherings.
+    `,
+    includedTitle: "What is Included in Your Retaining Wall Plan?",
+    planServiceName: "Retaining Wall",
+    planBullets: [
+      {
+        text: "Design Consultation & Material Selection",
+        icon: "/DesignConsultation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Custom Layout",
+        icon: "/CustomLayout.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Expert Site Grading & Excavation",
+        icon: "/SiteGrading.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Premium Material Sourcing & Coordination",
+        icon: "/MaterialSourcing.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Precision Masonry & Construction",
+        icon: "/PrecisionMasonry.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Integrated Drainage & Waterproofing Solutions",
+        icon: "/WallDrainage.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Post-Installation Inspection & Maintenance",
+        icon: "/WallInspection.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
   // Add more routes as needed...
 };
 
