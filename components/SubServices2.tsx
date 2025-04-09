@@ -393,6 +393,76 @@ Our services are tailored to the local climate and your unique property needs, k
       },
     ],
   },
+  "/services/outdoor-kitchens": {
+    mainTitle: "Outdoor Kitchens & Built-in Grills",
+    shortParagraph: `
+  Transform your backyard into a gourmet haven with our precision-designed outdoor kitchens and built-in grills, where style meets practicality. Our expert team brings your culinary visions to life by crafting custom cooking spaces that serve as the centerpiece for both daily meals and vibrant entertaining. Each installation is tailored to complement your property's character, boosting its value while delivering dependable, low-maintenance performance. With a keen eye for detail and a commitment to innovative design, our solutions create inviting, functional outdoor areas that redefine al fresco dining and relaxation.
+    `,
+    includedTitle: "Build Your Ideal Outdoor Kitchen: Select from Custom Enhancements for Every Need",
+    planServiceName: "Outdoor Kitchens & Built-in Grills",
+    planBullets: [
+      {
+        text: "Custom Outdoor Kitchen Design",
+        icon: "/DesignConsultation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Built-In Grill Installation",
+        icon: "/CustomLayout.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Stone & Pvaer Countertops",
+        icon: "/SiteGrading.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Outdoor Sink & Plumbing Integration",
+        icon: "/MaterialSourcing.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Electrical & Lighting Setup",
+        icon: "/PrecisionMasonry.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Weatherproof Cabinetry & Storage",
+        icon: "/WallDrainage.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Pizza Oven & Smoker Add-Ons",
+        icon: "/WallInspection.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Ventilation & Safety Features",
+        icon: "/WallInspection.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Fire-Resistant Materials & Finishes",
+        icon: "/WallInspection.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Maintenance & Repair Services",
+        icon: "/WallInspection.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
   // Add more routes as needed...
 };
 

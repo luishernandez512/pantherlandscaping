@@ -85,6 +85,12 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Reimagine your outdoor living environment with our professional Retaining Walls services, expertly designed to marry aesthetic appeal with robust functionality. \n\nWe combine local expertise with tailored design strategies to craft enduring walls that not only enhance your property's beauty but also provide essential support against shifting landscapes and seasonal elements.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
+  "/services/outdoor-kitchens": {
+    title: "Outdoor Kitchen",
+    subtitle: 
+      "Transform your backyard into a culinary oasis with our expert Outdoor Kitchens & Built-In Grills services, where striking design meets impeccable functionality. \n\nWe harness local insights and tailor-made design strategies to create versatile cooking spaces that not only elevate your propertys appeal but also deliver enduring performance—keeping your outdoor area vibrant and inviting in every season.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   "/services": {
     title: "Our Services",
     subtitle: "Browse through the various services we provide",
