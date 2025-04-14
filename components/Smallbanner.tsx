@@ -91,6 +91,12 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Transform your backyard into a culinary oasis with our expert Outdoor Kitchens & Built-In Grills services, where striking design meets impeccable functionality. \n\nWe harness local insights and tailor-made design strategies to create versatile cooking spaces that not only elevate your propertys appeal but also deliver enduring performance—keeping your outdoor area vibrant and inviting in every season.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
+  "/services/fire-pits": {
+    title: "Fire Pits & Outdoor Fireplaces",
+    subtitle: 
+      "Ignite your outdoor living experience with our custom Fire Pits & Outdoor Fireplaces services. We blend artistic craftsmanship with robust functionality to create captivating focal points that redefine your backyard oasis. \n\nLeveraging local expertise and personalized design strategies, our installations not only enhance your propertys aesthetic appeal but also offer enduring warmth and ambiance for unforgettable gatherings throughout every season.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   "/services": {
     title: "Our Services",
     subtitle: "Browse through the various services we provide",

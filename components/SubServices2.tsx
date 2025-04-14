@@ -463,6 +463,58 @@ Our services are tailored to the local climate and your unique property needs, k
       },
     ],
   },
+  "/services/fire-pits": {
+    mainTitle: "Fire Pits & Outdoor Fireplaces",
+    shortParagraph: `
+  Elevate your outdoor retreat with our expertly crafted fire pits and outdoor fireplaces, where warmth and design intertwine effortlessly. Our skilled team transforms your backyard into a captivating haven, creating bespoke fire features that act as both a stunning focal point and an inviting gathering space for memorable evenings. Each installation is thoughtfully designed to harmonize with your propertys unique style, enhancing its appeal and value while providing reliable, low-maintenance performance. With meticulous attention to detail and a passion for innovative craftsmanship, our fire solutions redefine comfort and ambiance, setting the stage for unforgettable outdoor experiences.
+    `,
+    includedTitle: "Design Your Perfect Outdoor Hearth: Tailor Every Detail to Ignite Lasting Ambiance",
+    planServiceName: "Fire Pit & Outdoor Fireplace",
+    planBullets: [
+      {
+        text: "Custom Fire Pit & Fireplace Design",
+        icon: "/FirePitGreen.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Premium Material Selection & Sourcing",
+        icon: "/FireBrick.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Expert Installation & Construction",
+        icon: "/ExpertInstallation.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Incorporated Safety & Code Compliance",
+        icon: "/IncorporatedSafety.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Integrated Seating & Ambiance Enhancements",
+        icon: "/IntegratedSeating.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Durable Weather-Resistant Finishes",
+        icon: "/DurableWeather.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Ongoing Maintenance & Cleaning Programs",
+        icon: "/OngoingMaintenanceCleaning.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
   // Add more routes as needed...
 };
 
