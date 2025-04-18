@@ -515,6 +515,76 @@ Our services are tailored to the local climate and your unique property needs, k
       },
     ],
   },
+  "/services/driveways-courtyards": {
+    mainTitle: "Driveways & Courtyards",
+    shortParagraph: `
+  Transform your homes entrance and courtyard into a stunning showcase with our precision-engineered driveway and courtyard designs. Our expert craftsmen blend high-quality materials and innovative layouts to create hardscapes that are as durable as they are eye catching. Every installation is custom tailored to echo your propertys architectural charm, boosting both curb appeal and everyday functionality. From sleek permeable pavers to timeless cobblestone motifs, we deliver low maintenance finishes that improve drainage and stand up to wear. With thoughtful planning and an unwavering dedication to quality, our driveway and courtyard solutions set the stage for seamless outdoor living and warm, welcoming gatherings.
+    `,
+    includedTitle: "Custom Hardscapes for Stunning Driveways & Courtyards",
+    planServiceName: "Driveway & Courtyard",
+    planBullets: [
+      {
+        text: "Custom Paver Driveway Installation",
+        icon: "/PaverDriveway.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Permeable Driveway Solutions",
+        icon: "/PermeableDriveway.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Decorative Stamped Concrete",
+        icon: "/StampedConcrete.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Gravel Driveway Installation & Grading",
+        icon: "/GravelDriveway.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Courtyard Patio Construction",
+        icon: "/CourtyardPatio.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Retaining Wall & Border Edging",
+        icon: "/WallBorderEdging.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Sealcoating & Surface Protection",
+        icon: "/Sealcoating.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Driveway Drainage & Grading",
+        icon: "/DrivewayDrainage.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Outdoor Lighting & Landscape Integration",
+        icon: "/DrivewayLighting.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Brick & Cobblestone Courtyard Design",
+        icon: "/BrickCourtyard.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
   // Add more routes as needed...
 };
 

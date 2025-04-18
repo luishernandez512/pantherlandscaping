@@ -97,6 +97,12 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Ignite your outdoor living experience with our custom Fire Pits & Outdoor Fireplaces services. We blend artistic craftsmanship with robust functionality to create captivating focal points that redefine your backyard oasis. \n\nLeveraging local expertise and personalized design strategies, our installations not only enhance your propertys aesthetic appeal but also offer enduring warmth and ambiance for unforgettable gatherings throughout every season.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
+  "/services/driveways-courtyards": {
+    title: "Driveways & Courtyards",
+    subtitle: 
+      "Enhance your curb appeal with our Driveways & Courtyards services—tailored designs, premium materials, and expert craftsmanship deliver durable, stylish hardscapes. \n\nFrom precise grading to artful borders, our installations create inviting, low maintenance outdoor spaces all year long.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   "/services": {
     title: "Our Services",
     subtitle: "Browse through the various services we provide",
