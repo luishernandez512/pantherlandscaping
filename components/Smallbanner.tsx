@@ -103,6 +103,12 @@ const pageBannerData: Record<string, { title: string; subtitle: string; bg?: str
       "Enhance your curb appeal with our Driveways & Courtyards services—tailored designs, premium materials, and expert craftsmanship deliver durable, stylish hardscapes. \n\nFrom precise grading to artful borders, our installations create inviting, low maintenance outdoor spaces all year long.",
     bg: "/HomePic.jpg", // Or any image you prefer
   },
+  "/services/garden-edging": {
+    title: "Garden Edging & Borders",
+    subtitle: 
+      "Elevate your garden with our Garden Edging & Borders service—custom contours and premium materials deliver crisp, clean lines that endure. \n\nFrom natural stone to metal and timber borders, our expert installations boost curb appeal and simplify maintenance year-round.",
+    bg: "/HomePic.jpg", // Or any image you prefer
+  },
   "/services": {
     title: "Our Services",
     subtitle: "Browse through the various services we provide",

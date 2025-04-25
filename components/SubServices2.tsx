@@ -585,6 +585,70 @@ Our services are tailored to the local climate and your unique property needs, k
       },
     ],
   },
+  "/services/garden-edging": {
+    mainTitle: "Garden Edging & Borders",
+    shortParagraph: `
+  Elevate your gardens appeal with our precision-crafted edging and border solutions. Our skilled team fuses top-tier materials and creative layouts to define planting beds, walkways, and lawn edges that marry form with function. Each installation is tailored to your property’s aesthetic, delivering durable, low-maintenance profiles—from natural stone and brick to sleek metal and timber—that resist erosion and streamline upkeep. Thoughtful design ensures proper drainage and soil retention, while subtle accents frame your greenery for a cohesive, polished look. With meticulous attention to detail and unwavering quality, our garden edging and border services provide the perfect finishing touch for an inviting outdoor sanctuary.
+    `,
+    includedTitle: "Custom Hardscapes for Stunning Driveways & Courtyards",
+    planServiceName: "Garden Edging & Border",
+    planBullets: [
+      {
+        text: "Natural Stone Edging Installation",
+        icon: "/NaturalStoneEdging.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Brick & Paver Border Construction",
+        icon: "/PaverBorderConstruction.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Aluminum & Steel Landscape Edging",
+        icon: "/SteelLandscapeEdging.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Timber & Railroad Tie Borders",
+        icon: "/RailroadTieBorders.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Gabion Basket Edge Systems",
+        icon: "/BasketEdgeSystems.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Gravel & Decorative Aggregate Borders",
+        icon: "/DecorativeAggregateBorders.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Raised Garden Bed Edging",
+        icon: "/RaisedGardenBed.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "Edible Herb & Vegetable Garden Borders",
+        icon: "/VegetableGardenBorders.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+      {
+        text: "LED-illuminated Hardscape Edging",
+        icon: "/IlluminatedEdging.png",
+        iconWidth: 60,
+        iconHeight: 60,
+      },
+    ],
+  },
   // Add more routes as needed...
 };
 
